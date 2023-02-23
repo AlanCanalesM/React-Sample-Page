@@ -30,6 +30,5 @@ function NewMeetUp(){
     </section>
 }
 
-// https://console.firebase.google.com/project/react-getting-started-c9e2f/database/react-getting-started-c9e2f-default-rtdb/data/~2F?hl=es-419
 
 export default NewMeetUp;
